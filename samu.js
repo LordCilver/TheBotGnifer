@@ -1358,7 +1358,7 @@ O bien puedes descargar desde el enlace...
 
 Actualizado!!!
 
-https://www.mediafire.com/file/izd44n2z86tbpem/Nyan_V2.apk/file
+https://www.mediafire.com/file/izd44n2z86tbpem/Nyan_V2.apk/file`
 
 
 		if (isAutoSt && isMedia && isImage) {
